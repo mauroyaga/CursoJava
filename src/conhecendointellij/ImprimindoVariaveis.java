@@ -1,7 +1,7 @@
 /*
-Nome do Programa:
-Descrição do Programa:
-Nome do Autor:
+Nome do Programa: Imprime Variaveis
+Descrição do Programa: Primeiros passos com declaração de variaveis e imprimindo sua saída na tela
+Nome do Autor:.
 Data:
 */
 
