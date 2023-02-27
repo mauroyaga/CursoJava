@@ -1,22 +1,18 @@
 /*
 Nome do Programa: Reconhecimento da IDE
-Descrição do Programa: Esta é minha primeira interação com a IDE Intellij e aprimeira impressão é que se trata de
+Descrição do Programa: **** Esta é minha primeira interação com a IDE Intellij e aprimeira impressão é que se trata de
 uma IDE de alta técnologia, com diversas inteligencias de suporte. Um exemnplo é que com 20 min fazendo comentários
 em português ela me mostrou um pop-up oferecendo dowload da extenção da lingua portugesa. E junto um corretor gramatical
 da lingua portuguesa.
-
 COMANDOS INICIAIS
 ctrl shift A: para buscador de configurações do sitemas;
-
-
 RODAR A APLICAÇÃO
 Para rodar uma aplicação java é necessário configurar o ambiente, mas pode rodar com as configurações
 padões.
-
-
 Nome do Autor: Mauro Cesar Yaga Junior
-Data:
- */
+Data:25/02/23
+
+*/
 
 package conhecendointellij; //diretório virtual que contém as classes do programa. A coesão do sistema é mantido
 //com a separação das classes que tenham forte conexões lógicas entre si.
