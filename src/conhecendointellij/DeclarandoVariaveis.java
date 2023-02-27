@@ -28,6 +28,7 @@ public class DeclarandoVariaveis {
 
         println() - é um método da classe PrintStream que é usado para imprimir uma string de caracteres
         seguida por um caractere de nova linha (\n) em um console. Ele imprime o texto na saída padrão do console.*/
+
         System.out.println(idadeDosPais);  //Foi passado como parametro a variavel declarada anteriormente que sera imprimida seu valor.
 
         //Para concatenar a saída de string com a saída do valor da variavel segue a sintaxe médoto: System.out.println("string" +nome da variavel);
